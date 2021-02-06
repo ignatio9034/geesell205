@@ -1,0 +1,4 @@
+baseURL = "https://acura-carfee30.vercel.app"
+languageCode = "en-us"
+title = "About Acura TL 2021"
+theme = "hugo-theme-minos"
